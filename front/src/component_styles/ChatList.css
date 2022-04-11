@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
 
 .NavChatList *{
-    color: white;
+    color: rgb(237, 210, 210);
 }
 .ChatList{
     align-items: center;
@@ -59,7 +59,7 @@
     opacity: 0.7;
     /* background-color: rgb(97, 133, 240); */
     padding: 4px;
-    color: white;
+    color: rgb(241, 241, 96);
     cursor: pointer;
     padding-right: 10px;
     padding-left: 10px;
@@ -97,7 +97,7 @@
     border-top-left-radius: 25px;
     color: white;
     border-top-right-radius: 0px;
-    background-color: rgb(97, 133, 240);
+    background-color: rgb(160, 109, 16);
     text-align: right;
 }
 
